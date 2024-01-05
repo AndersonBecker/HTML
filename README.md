@@ -1,0 +1,1 @@
+Estrutura e desenvolvimento de um site básito criado por iniciante com aulas do professor Diogo Mainardes. Desafio concluido da DIO  com uso de todas tags usadas em aula, explicação simples exemplos e adicional de implementação de videos do youtube na página.
